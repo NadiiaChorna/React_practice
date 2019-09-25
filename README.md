@@ -1,3 +1,5 @@
+### Firebase link: [https://my-project-1545613287116.firebaseapp.com/]
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
